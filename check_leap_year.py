@@ -1,4 +1,4 @@
-#python program to check if a Number is odd or even
+#python program to check leap year
 
 #take input from user
 n = int(input("Enter the year : "))
